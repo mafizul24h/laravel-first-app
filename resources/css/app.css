@@ -1,0 +1,10 @@
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 20px;
+}
